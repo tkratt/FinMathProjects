@@ -28,20 +28,20 @@ The workflow of the project includes:
 
 ---
 
-## 🔍 Key Insight
+## Key Insight
 
 Although the Black-Scholes model is designed for **European options**, we applied it to **American options** as a challenge. Despite its limitations (e.g., American options can be exercised early), the model performed reasonably well.
 
 ---
 
-## 🛠️ Future Work
+## Future Work
 
 - Implement a **binomial option pricing model** for more accurate American option pricing.
 - Explore more robust volatility forecasting models (e.g., EGARCH, Heston).
 
 ---
 
-## 📁 Files
+## Files
 
 | File | Description |
 |------|-------------|
