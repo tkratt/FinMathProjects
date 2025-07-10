@@ -1,4 +1,4 @@
-[Black-Scholes Option Pricing Model](Black-Scholes.ipynb)
+##[Black-Scholes Option Pricing Model](Black-Scholes.ipynb)
 
 This project implements and evaluates the Black-Scholes option pricing model by comparing theoretical prices to real-world market data for MSFT call options. The notebook explores multiple methods of volatility estimation and measures model accuracy using Mean Squared Error (MSE).
 
